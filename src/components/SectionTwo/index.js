@@ -1,7 +1,7 @@
 import './styles.scss'
 
 const SectionTwo = () => {
-  return <section>Section Two</section>
+  return <section className="title">Section Two</section>
 }
 
 export default SectionTwo
